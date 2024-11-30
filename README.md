@@ -21,7 +21,7 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ### 🚀 GitHUb Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&theme=radical)
 
-### 🚀 Tech Stack:
+## 🚀 Tech Stack:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=danivelve&theme=radical)
 
 ### 🚀 Github Languages:
@@ -36,7 +36,7 @@ When I am not working on tech projects, I love exploring new cities and embracin
 
 ## 🌟 Featured Projects
 - [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.  
-- [Another Project](https://github.com/yourusername/another-repo): A cool project with an interesting idea.
+
 
 <!--
 **danivelve/danivelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
