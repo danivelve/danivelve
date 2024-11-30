@@ -19,6 +19,9 @@ Database administration and scripting with SQL, PostgreSQL, and MongoDB.
 - 🌟 Fun fact:
 When I am not working on tech projects, I love exploring new cities and embracing diverse cultures!
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
 <!--
 **danivelve/danivelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
