@@ -3,7 +3,7 @@
 
 Advancing my expertise in Azure and AWS for cloud infrastructure management.
 Exploring Python and JavaScript for application development and automation.
-- https://img.shields.io/badge/brief_about-me-blue
+https://img.shields.io/badge/brief_about-me-blue
 - 🤝 I’m looking to collaborate on:
 Cloud solutions, automation tools, and troubleshooting projects.
 Security-focused software development.
