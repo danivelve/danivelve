@@ -19,7 +19,16 @@ Database administration and scripting with SQL, PostgreSQL, and MongoDB.
 - 🌟 Fun fact:
 When I am not working on tech projects, I love exploring new cities and embracing diverse cultures!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&theme=radical)
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=danivelve&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=radical)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
 <!--
