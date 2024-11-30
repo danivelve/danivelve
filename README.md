@@ -29,22 +29,12 @@ When I am not working on tech projects, I love exploring new cities and embracin
 
 
 ## 🚀 Github Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&icon_color=E0FFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&bg_color=FFFFFF&title_color=007FFF&text_color=000000&icon_color=002366)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-## 🚀 Github Languages (Corporate Blue):
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&bg_color=E6F7FF&title_color=002366&text_color=000000&icon_color=FFFFFF)
-
-## 🚀 Github Languages (Cloud White):
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&bg_color=FFFFFF&title_color=007FFF&text_color=696969&icon_color=002366)
-
-## 🚀 Github Activity Graph (Data Center Gray):
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danivelve&bg_color=2F4F4F&color=ADD8E6&line=32CD32&point=FFFFFF&title_color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🚀 Github Activity Graph (Cloud White):
@@ -53,5 +43,60 @@ When I am not working on tech projects, I love exploring new cities and embracin
 
 
 ## 🌟 Featured Projects
-- [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.  
+- [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
+
+## 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+Frameworks
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+Server Administration
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Exchange](https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MS 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2E64FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
+
+Database Administration
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+Networking
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=networking&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=networking&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-000000?style=for-the-badge&logo=networking&logoColor=white)
+
+Document Management
+
+![SharePoint](https://img.shields.io/badge/MS_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Zoho Projects](https://img.shields.io/badge/Zoho_Projects-0078D4?style=for-the-badge&logo=zoho&logoColor=white)
+
+Technical Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MS Teams](https://img.shields.io/badge/MS_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+Designing Tools
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-004B87?style=for-the-badge&logo=autocad&logoColor=white)
+
+Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
