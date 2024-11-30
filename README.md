@@ -28,6 +28,15 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=FFFFFF&title_color=000000&text_color=808080&icon_color=1E90FF)
 ## 🚀 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=D2B48C&title_color=8B4513&text_color=FFF8DC&icon_color=DAA520)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=E6F7FF&title_color=002366&text_color=000000&icon_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=1A1A1D&title_color=39FF14&text_color=D3D3D3&icon_color=00FFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=FFFFFF&title_color=007FFF&text_color=696969&icon_color=002366)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=2F4F4F&title_color=FFFFFF&text_color=ADD8E6&icon_color=32CD32)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=98FB98&title_color=006400&text_color=000000&icon_color=FFD700)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&icon_color=E0FFFF)
+
+
+
 
 
 
