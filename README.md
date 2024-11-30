@@ -35,7 +35,7 @@ When I am not working on tech projects, I love exploring new cities and embracin
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danivelve&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌟 Featured Projects
-- [Secure-data-lab-1](https://github.com/danivelve/[project-repo](https://github.com/danivelve/secure-data-lab-1)): Securing Sensitive Data with Git and GitHub.  
+- [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.  
 - [Another Project](https://github.com/yourusername/another-repo): A cool project with an interesting idea.
 
 <!--
