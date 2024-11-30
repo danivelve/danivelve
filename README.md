@@ -24,6 +24,10 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&theme=radical)
 ## 🚀 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&bg_color=ADD8E6&title_color=000080&text_color=000000&icon_color=000080)
+## 🚀 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=FFFFFF&title_color=000000&text_color=808080&icon_color=1E90FF)
+## 🚀 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=D2B48C&title_color=8B4513&text_color=FFF8DC&icon_color=DAA520)
 
 
 
