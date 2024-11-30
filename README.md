@@ -54,10 +54,6 @@ Database Administration:	![MySQL](https://img.shields.io/badge/MySQL-4479A1?styl
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Networking:	![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=networking&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=networking&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-000000?style=for-the-badge&logo=networking&logoColor=white)
-
 Document Management:	![SharePoint](https://img.shields.io/badge/MS_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Zoho Projects](https://img.shields.io/badge/Zoho_Projects-0078D4?style=for-the-badge&logo=zoho&logoColor=white)
@@ -66,13 +62,3 @@ Technical Tools:	![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MS Teams](https://img.shields.io/badge/MS_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-Designing Tools:	![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-004B87?style=for-the-badge&logo=autocad&logoColor=white)
-
-Operating Systems:	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-
-
