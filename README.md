@@ -29,10 +29,6 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ## 🚀 Github Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&bg_color=FFFFFF&title_color=007FFF&text_color=000000&icon_color=002366)
 
-## 🌟 Featured Projects:
-- [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
-
-
 ## 🚀 Technical Competence:
 Programming Languages:	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -60,3 +56,6 @@ Technical Tools:	![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MS Teams](https://img.shields.io/badge/MS_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+## 🌟 Featured Projects:
+[Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
