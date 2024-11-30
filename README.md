@@ -35,6 +35,7 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ## 🌟 Featured Projects:
 - [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
 
+
 ## 🚀 Technical Competence:
 Programming Languages:	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
