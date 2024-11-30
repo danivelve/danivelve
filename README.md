@@ -29,9 +29,6 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ## 🚀 Github Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&bg_color=FFFFFF&title_color=007FFF&text_color=000000&icon_color=002366)
 
-## 🚀 Github Activity Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danivelve&bg_color=FFFFFF&color=696969&line=007FFF&point=002366&title_color=007FFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🌟 Featured Projects:
 - [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
 
