@@ -37,8 +37,19 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
-## 🚀 Github Activity Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danivelve&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🚀 Github Languages (Corporate Blue):
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&bg_color=E6F7FF&title_color=002366&text_color=000000&icon_color=FFFFFF)
+
+## 🚀 Github Languages (Cloud White):
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&bg_color=FFFFFF&title_color=007FFF&text_color=696969&icon_color=002366)
+
+## 🚀 Github Activity Graph (Data Center Gray):
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danivelve&bg_color=2F4F4F&color=ADD8E6&line=32CD32&point=FFFFFF&title_color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## 🚀 Github Activity Graph (Cloud White):
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danivelve&bg_color=FFFFFF&color=696969&line=007FFF&point=002366&title_color=007FFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ## 🌟 Featured Projects
