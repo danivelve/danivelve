@@ -35,6 +35,27 @@ When I am not working on tech projects, I love exploring new cities and embracin
   height="165"
 />
 
+## 🚀 GitHub Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danivelve&theme=default"
+        alt="GitHub Stats – Summary Card"
+        height="165"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danivelve&theme=default&utcOffset=0"
+        alt="GitHub Stats – Productivity"
+        height="165"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ## 🔥 GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danivelve&theme=default&hide_border=false" alt="GitHub Streak" />
