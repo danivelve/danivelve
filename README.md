@@ -1,7 +1,6 @@
   ## ✨ About Me:✨
   💻 I’m currently working on:
-  
-  Advancing my expertise in Azure and AWS for cloud infrastructure management.
+    Advancing my expertise in Azure and AWS for cloud infrastructure management.
   Exploring Python and JavaScript for application development and automation.
   
   - 🤝 I’m looking to collaborate on:
@@ -16,8 +15,17 @@
   Cloud computing with Azure and AWS.
   Database administration and scripting with SQL, PostgreSQL, and MongoDB.
   
-  - 🌟 Fun fact:
-  When I am not working on tech projects, I love exploring new cities and embracing diverse cultures!
+💻 What I do
+I build skills in data analysis and data science using Azure & AWS, working with Python, Pandas, NumPy, Matplotlib, and Power BI to analyze data and create actionable dashboards.
+
+🤝 Collaboration interests
+Data analysis, BI dashboards (Power BI), automation pipelines, and data-quality–focused projects.
+
+📖 Currently learning
+Cloud-based analytics (Azure, AWS), data visualization and analysis, and databases using SQL, PostgreSQL, and MongoDB.
+
+🌟 Fun fact
+I enjoy exploring new cities and cultures, a curiosity that also drives my passion for uncovering insights in data.
   
   ## 🚀 GitHub Stats
   <table>
