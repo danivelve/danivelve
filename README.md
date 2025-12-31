@@ -19,24 +19,7 @@ Database administration and scripting with SQL, PostgreSQL, and MongoDB.
 - 🌟 Fun fact:
 When I am not working on tech projects, I love exploring new cities and embracing diverse cultures!
 
-
-
 ## 🚀 GitHub Stats
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danivelve&theme=default"
-  alt="GitHub Stats – Summary Card"
-  height="165"
-/>
-
----
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danivelve&theme=default&utcOffset=0"
-  alt="GitHub Stats – Productivity"
-  height="165"
-/>
-
-## 🚀 GitHub Stats
-
 <table>
   <tr>
     <td align="center">
@@ -56,7 +39,6 @@ When I am not working on tech projects, I love exploring new cities and embracin
   </tr>
 </table>
 
-
 ## 🔥 GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danivelve&theme=default&hide_border=false" alt="GitHub Streak" />
 
@@ -67,6 +49,9 @@ When I am not working on tech projects, I love exploring new cities and embracin
   alt="Top Languages by Repository"
   height="165"
 />
+
+## 🌟 Featured Projects:
+[Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
 
 ## 🚀 Technical Competence:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -90,5 +75,4 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2E64FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-## 🌟 Featured Projects:
-[Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
+
