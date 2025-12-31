@@ -80,14 +80,15 @@ When I am not working on tech projects, I love exploring new cities and embracin
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=default&hide_border=false" />
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&hide=html,css,scss&layout=donut)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&hide=html,css,scss&layout=donut)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=vue-dark)
-
 ## 🧠 Top Languages
-<!-- Try this if the above doesn't work -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+
+## 📊 GitHub Stats
+
+### Profile Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+
+### Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide=html,css)
