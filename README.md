@@ -19,18 +19,6 @@ Database administration and scripting with SQL, PostgreSQL, and MongoDB.
 - 🌟 Fun fact:
 When I am not working on tech projects, I love exploring new cities and embracing diverse cultures!
 
-## 📊 GitHub Overview
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danivelve" />
-    </td>
-  </tr>
-</table>
 
 
 ## 🚀 GitHub Stats
@@ -67,6 +55,3 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ## 🌟 Featured Projects:
 [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
 
-## 🧪 Featured Projects
-
-**Secure-data-lab-1:** Securing Sensitive Data with Git and GitHub.
