@@ -35,8 +35,6 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ## 🧠 Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact" />
 
-
-
 ## 🚀 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
 
@@ -71,6 +69,10 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ## 🌟 Featured Projects:
 [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
 
+## 🧪 Featured Projects
+
+**Secure-data-lab-1:** Securing Sensitive Data with Git and GitHub.
+
 ---------------------------------------------
 ## 📊 GitHub Overview
 
@@ -89,33 +91,3 @@ When I am not working on tech projects, I love exploring new cities and embracin
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=default&hide_border=false" />
 
 ---
-
-## 💼 Technical Competence
-
-- **NODE.JS**
-- **ADVANCED EXCEL**  
-  POWER BI
-- **MYSQL**  
-  POSTGRESQL  
-  MONGODB
-- **PYTHON**  
-  JAVASCRIPT  
-  HTML5  
-  CSS3
-
----
-
-## 🛠️ Systems & Tools
-
-- **ACTIVE DIRECTORY**
-- **EXCHANGE**
-- **MICROSOFT 365**
-- **VMWARE**
-- **UNIX**
-- **POWERSHELL**
-
----
-
-## 🧪 Featured Projects
-
-**Secure-data-lab-1:** Securing Sensitive Data with Git and GitHub.
