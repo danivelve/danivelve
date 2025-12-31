@@ -82,19 +82,6 @@
     height="165"
   />
   
-  Focused on data cleaning, modeling, analytics, and dashboarding using Excel, Power BI, SQL, PostgreSQL, and MongoDB.
-  
-  ## 🏢 Enterprise & Infrastructure
-    <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danivelve&theme=default"
-    alt="Enterprise & Infrastructure Profile"
-    height="165"
-  />
-  
-  Experience across Active Directory, Microsoft 365, Exchange, VMware, Unix/Linux environments, and PowerShell automation.
-  
-
-
 🌐 Web & Platforms
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danivelve&theme=default&utcOffset=0" alt="Productive Time" height="165" /> </p> <p align="center"> Hands-on experience with <b>HTML5</b>, <b>CSS3</b>, <b>JavaScript</b>, and <b>Node.js</b> for scripting, automation, and backend fundamentals. </p>
 🏢 Enterprise & Infrastructure
