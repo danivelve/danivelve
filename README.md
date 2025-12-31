@@ -18,6 +18,7 @@ Database administration and scripting with SQL, PostgreSQL, and MongoDB.
 
 - 🌟 Fun fact:
 When I am not working on tech projects, I love exploring new cities and embracing diverse cultures!
+
 ## 📊 GitHub Overview
 
 <table>
@@ -69,3 +70,41 @@ When I am not working on tech projects, I love exploring new cities and embracin
 
 ## 🌟 Featured Projects:
 [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
+
+
+
+
+## 📊 GitHub Overview
+
+<p align="left">
+  <a href="https://github.com/danivelve">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+      alt="GitHub Stats"
+      height="165"
+      referrerpolicy="no-referrer"
+    />
+  </a>
+  <a href="https://github.com/danivelve">
+    <img
+      src="https://streak-stats.demolab.com?user=danivelve&hide_border=true"
+      alt="GitHub Streak"
+      height="165"
+      referrerpolicy="no-referrer"
+    />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/danivelve">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&hide_border=true"
+      alt="Top Languages"
+      height="165"
+      referrerpolicy="no-referrer"
+    />
+  </a>
+</p>
+
+> If you don’t see the cards above, your network/browser is blocking images from `github-readme-stats.vercel.app` or `streak-stats.demolab.com`.
+
