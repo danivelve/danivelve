@@ -32,8 +32,6 @@ When I am not working on tech projects, I love exploring new cities and embracin
   </tr>
 </table>
 
-## 🧠 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact" />
 
 ## 🚀 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
@@ -72,23 +70,3 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ## 🧪 Featured Projects
 
 **Secure-data-lab-1:** Securing Sensitive Data with Git and GitHub.
-
----------------------------------------------
-
-
-## 🧠 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=default&hide_border=false" />
-
----
-## 🧠 Top Languages
-
-## 📊 GitHub Stats
-
-### Profile Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-
-### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide=html,css)
