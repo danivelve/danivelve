@@ -28,14 +28,9 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ## 🧠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact)
 
-## 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&rank_icon=github)
-
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=danivelve)
 
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact)
 
 ## 🚀 Technical Competence:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
