@@ -76,35 +76,31 @@ When I am not working on tech projects, I love exploring new cities and embracin
 
 ## 📊 GitHub Overview
 
-<p align="left">
-  <a href="https://github.com/danivelve">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-      alt="GitHub Stats"
-      height="165"
-      referrerpolicy="no-referrer"
-    />
-  </a>
-  <a href="https://github.com/danivelve">
-    <img
-      src="https://streak-stats.demolab.com?user=danivelve&hide_border=true"
-      alt="GitHub Streak"
-      height="165"
-      referrerpolicy="no-referrer"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danivelve" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://github.com/danivelve">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&hide_border=true"
-      alt="Top Languages"
-      height="165"
-      referrerpolicy="no-referrer"
-    />
-  </a>
-</p>
+## 🧠 Top Languages
 
-> If you don’t see the cards above, your network/browser is blocking images from `github-readme-stats.vercel.app` or `streak-stats.demolab.com`.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact" alt="Top Languages" />
+
+## 🚀 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+
+## 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danivelve&theme=default&hide_border=false" alt="GitHub Streak" />
+
+## 🧠 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+
 
