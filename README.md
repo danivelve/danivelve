@@ -74,20 +74,20 @@ When I am not working on tech projects, I love exploring new cities and embracin
 **Secure-data-lab-1:** Securing Sensitive Data with Git and GitHub.
 
 ---------------------------------------------
-## 📊 GitHub Overview
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&theme=default&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danivelve&theme=default&hide_border=false" />
-    </td>
-  </tr>
-</table>
 
 ## 🧠 Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=default&hide_border=false" />
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&hide=html,css,scss&layout=donut)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&hide=html,css,scss&layout=donut)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=vue-dark)
+
+## 🧠 Top Languages
+<!-- Try this if the above doesn't work -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
