@@ -76,31 +76,29 @@ When I am not working on tech projects, I love exploring new cities and embracin
 
 ## 📊 GitHub Overview
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danivelve" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://github.com/danivelve">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"
+      alt="GitHub Stats"
+      height="165"
+    />
+  </a>
+  <a href="https://github.com/danivelve">
+    <img
+      src="https://streak-stats.demolab.com?user=danivelve&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800"
+      alt="GitHub Streak"
+      height="165"
+    />
+  </a>
+</p>
 
-## 🧠 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact" alt="Top Languages" />
-
-## 🚀 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
-
-## 🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danivelve&theme=default&hide_border=false" alt="GitHub Streak" />
-
-## 🧠 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
-
-
+<p align="left">
+  <a href="https://github.com/danivelve">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&langs_count=10&hide_border=true&cache_seconds=1800"
+      alt="Top Languages"
+      height="165"
+    />
+  </a>
+</p>
