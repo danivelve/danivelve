@@ -88,35 +88,10 @@
 </p>
 
 ## 📊 Data & Analytics
-
-<!-- OPTION 1: Line / Activity Trend Graph -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=danivelve&theme=github-light&hide_border=true"
-  alt="Analytics Activity Trend (Line Graph)"
-/>
-
-**Insight:**  
-Time-series view of coding and analytics activity, highlighting consistency and growth.
-
----
-
-<!-- OPTION 2: Bar / Productivity Distribution -->
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danivelve&theme=default&utcOffset=0"
-  alt="Productivity Distribution (Bar Chart)"
-/>
-
-**Insight:**  
-Shows when development and analytics work is most productive across time.
-
----
-
-<!-- OPTION 3: Language Usage Breakdown (Horizontal Bars) -->
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danivelve&theme=default"
   alt="Most Used Languages (Analytics Stack)"
 />
-
 **Insight:**  
 Highlights primary languages used across analytics, automation, and data projects.
 
