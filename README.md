@@ -60,3 +60,38 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ## 🌟 Featured Projects:
 [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
 
+
+## 📊 GitHub Stats (Professional Views)
+
+### Option 1 — Classic GitHub Stats (Most Popular)
+Clean, widely used, recruiter-friendly.
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+  alt="GitHub Stats – Classic"
+  height="165"
+/>
+
+---
+
+### Option 2 — Profile Summary Card (Executive / Dashboard Style)
+Very stable provider, looks like a BI summary card.
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danivelve&theme=default"
+  alt="GitHub Stats – Summary Card"
+  height="165"
+/>
+
+---
+
+### Option 3 — Productivity / Contributions Focus
+Highlights contribution consistency and activity.
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danivelve&theme=default&utcOffset=0"
+  alt="GitHub Stats – Productivity"
+  height="165"
+/>
+
+
