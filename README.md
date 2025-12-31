@@ -76,7 +76,6 @@
   ![PowerShell](https://img.shields.io/badge/PowerShell-2E64FE?style=for-the-badge&logo=powershell&logoColor=white)
   
 ## 📊 Data & Analytics
-
 <p align="left">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=danivelve&theme=github-light&hide_border=true"
@@ -87,7 +86,37 @@
 <p align="left">
   Visual representation of coding activity and analytics-driven development over time.
 </p>
-  
+
+## 📊 Data & Analytics
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=danivelve&theme=github-light&hide_border=true"
+  alt="GitHub Activity Graph – Executive View"
+/>
+
+**Executive Insight:**  
+Shows consistent coding activity and analytics-focused development trends over time.
+
+---
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=danivelve&theme=github-light&hide_border=true"
+  alt="GitHub Activity Graph – Portfolio View"
+/>
+
+📈 Visual representation of analytics-driven development activity over time.
+
+---
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=danivelve&theme=github-light&hide_border=true"
+  alt="GitHub Activity Graph – Technical View"
+/>
+
+- Tracks contribution trends across projects  
+- Reflects consistency in data, analytics, and automation work  
+- Demonstrates hands-on learning and continuous improvement
+
 ## 🌐 Web & Platforms
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danivelve&theme=default&utcOffset=0" alt="Productive Time" height="165" /> </p> <p align="center"> Hands-on experience with <b>HTML5</b>, <b>CSS3</b>, <b>JavaScript</b>, and <b>Node.js</b> for scripting, automation, and backend fundamentals. </p>
 
