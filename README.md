@@ -75,18 +75,7 @@
   ![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/PowerShell-2E64FE?style=for-the-badge&logo=powershell&logoColor=white)
   
-  
-  ## 🧠 Top Languages
-  
-  <p align="center">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danivelve&theme=default"
-      alt="Top Languages by Repository"
-      width="800"
-    />
-  </p>
-  
-    ## 📊 Data & Analytics (Professional View)
+  ## 📊 Data & Analytics
     <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danivelve&theme=default"
     alt="Data & Analytics Stack"
