@@ -86,12 +86,6 @@
 <p align="left">
   Visual representation of coding activity and analytics-driven development over time.
 </p>
-
-## 📊 Data & Analytics
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danivelve&theme=default"
-  alt="Most Used Languages (Analytics Stack)"
-/>
 **Insight:**  
 Highlights primary languages used across analytics, automation, and data projects.
 
