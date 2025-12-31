@@ -118,3 +118,7 @@
     alt="Connect & Collaborate"
     height="165"
   />
+
+  /////////////////////
+  🌐 Web & Platforms
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danivelve&theme=default&utcOffset=0" alt="Productive Time" height="165" /> </p> <p align="center"> Hands-on experience with <b>HTML5</b>, <b>CSS3</b>, <b>JavaScript</b>, and <b>Node.js</b> for scripting, automation, and backend fundamentals. </p>
