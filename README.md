@@ -75,7 +75,6 @@
   ![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/PowerShell-2E64FE?style=for-the-badge&logo=powershell&logoColor=white)
   
-  ## 📊 Data & Analytics
 ## 📊 Data & Analytics
 
 <p align="left">
@@ -88,13 +87,12 @@
 <p align="left">
   Visual representation of coding activity and analytics-driven development over time.
 </p>
-
   
-🌐 Web & Platforms
+## 🌐 Web & Platforms
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danivelve&theme=default&utcOffset=0" alt="Productive Time" height="165" /> </p> <p align="center"> Hands-on experience with <b>HTML5</b>, <b>CSS3</b>, <b>JavaScript</b>, and <b>Node.js</b> for scripting, automation, and backend fundamentals. </p>
-🏢 Enterprise & Infrastructure
+
+## 🏢 Enterprise & Infrastructure
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danivelve&theme=default" alt="Profile Details" height="165" /> </p> <p align="left"> Experience across <b>Active Directory</b>, <b>Microsoft 365</b>, <b>Exchange</b>, <b>VMware</b>, <b>Unix/Linux</b>, and <b>PowerShell</b> automation. </p>
-🧭 Career Direction
-<p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danivelve&theme=default" alt="GitHub Stats" height="165" /> </p> <p align="left"> <b>Data Analyst • BI Analyst • Cloud & Infrastructure Engineer</b><br/> Driven by analytics, automation, secure systems, and scalable cloud solutions. </p>
-📫 Connect With Me
+
+## 📫 Connect With Me
 <p align="left"> <a href="https://github.com/danivelve"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:danivelve@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
