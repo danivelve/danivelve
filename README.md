@@ -29,31 +29,11 @@ When I am not working on tech projects, I love exploring new cities and embracin
 
 ## 🧠 Top Languages (Professional Views)
 
-### Option 1 — Compact & Recruiter-Friendly (Recommended)
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&langs_count=8&hide_border=true"
-  alt="Top Languages – Compact"
-  height="165"
-/>
-
----
-
-### Option 2 — Repository Language Distribution
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danivelve&theme=default"
   alt="Top Languages by Repository"
   height="165"
 />
-
----
-
-### Option 3 — Most Committed Languages (Analytics Style)
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danivelve&theme=default"
-  alt="Most Used Languages"
-  height="165"
-/>
-
 
 ## 🚀 Technical Competence:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
