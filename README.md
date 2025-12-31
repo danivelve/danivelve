@@ -28,15 +28,14 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ## 🧠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact)
 
+## 🚀 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&rank_icon=github)
 
-## 🚀 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&bg_color=FFFFFF&title_color=007FFF&text_color=696969&icon_color=002366)
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=danivelve)
 
-## 🚀 Tech Stack:
-![GitHub Streak](https://streak-stats.demolab.com/?user=danivelve&theme=default&background=E6F7FF&stroke=002366&ring=002366&fire=002366&currStreakLabel=002366&sideNums=000000&dates=000000&currStreakNum=000000&sideLabels=000000)
-
-## 🚀 Github Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact&bg_color=FFFFFF&title_color=007FFF&text_color=000000&icon_color=002366)
+## 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danivelve&layout=compact)
 
 ## 🚀 Technical Competence:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
