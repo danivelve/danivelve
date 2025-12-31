@@ -76,3 +76,54 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ![PowerShell](https://img.shields.io/badge/PowerShell-2E64FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 
+
+<h4 align="center">Data & Analytics</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced_Excel-8B4513?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-808080?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<h4 align="center">Web & Platforms</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+<h4 align="center">Enterprise & Infrastructure</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">🌟 Featured Project</h2>
+
+<p align="center">
+  🔐 <a href="https://github.com/danivelve/secure-data-lab-1"><b>secure-data-lab-1</b></a><br/>
+  Securing sensitive data using Git and GitHub best practices
+</p>
+
+---
+
+<h2 align="center">🧭 Career Direction</h2>
+
+<p align="center">
+  Data Analyst • BI Analyst • Cloud & Infrastructure Engineer<br/>
+  Focused on analytics, automation, and secure cloud solutions
+</p>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/danivelve">GitHub</a> • Open to collaboration and knowledge sharing
+</p>
