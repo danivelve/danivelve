@@ -76,8 +76,21 @@ When I am not working on tech projects, I love exploring new cities and embracin
 ![PowerShell](https://img.shields.io/badge/PowerShell-2E64FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 
+## 🧠 Top Languages (Professional Views)
 
-<h4 align="center">Data & Analytics</h4>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danivelve&theme=default"
+    alt="Top Languages by Repository"
+    width="800"
+  />
+</p>
+
+---
+
+## 🚀 Technical Competence
+
+### 📊 Data & Analytics
 <p align="center">
   <img src="https://img.shields.io/badge/Advanced_Excel-8B4513?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-808080?style=for-the-badge&logo=power-bi&logoColor=black"/>
@@ -86,14 +99,14 @@ When I am not working on tech projects, I love exploring new cities and embracin
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<h4 align="center">Web & Platforms</h4>
+### 🌐 Web & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-<h4 align="center">Enterprise & Infrastructure</h4>
+### 🏢 Enterprise & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
@@ -104,7 +117,7 @@ When I am not working on tech projects, I love exploring new cities and embracin
 
 ---
 
-<h2 align="center">🌟 Featured Project</h2>
+## 🌟 Featured Project
 
 <p align="center">
   🔐 <a href="https://github.com/danivelve/secure-data-lab-1"><b>secure-data-lab-1</b></a><br/>
@@ -113,7 +126,7 @@ When I am not working on tech projects, I love exploring new cities and embracin
 
 ---
 
-<h2 align="center">🧭 Career Direction</h2>
+## 🧭 Career Direction
 
 <p align="center">
   Data Analyst • BI Analyst • Cloud & Infrastructure Engineer<br/>
@@ -122,7 +135,7 @@ When I am not working on tech projects, I love exploring new cities and embracin
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/danivelve">GitHub</a> • Open to collaboration and knowledge sharing
