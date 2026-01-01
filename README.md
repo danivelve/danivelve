@@ -1,6 +1,6 @@
   ## ✨ About Me:✨
   💻 I’m currently working on:
-    Advancing my expertise in Azure and AWS for cloud infrastructure management.
+   Advancing my expertise in Azure and AWS for cloud infrastructure management.
   Exploring Python and JavaScript for application development and automation.
   
   - 🤝 I’m looking to collaborate on:
