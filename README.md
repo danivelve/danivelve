@@ -105,25 +105,101 @@ Highlights primary languages used across analytics, automation, and data project
 
 --------------------------------------
 --------------------------------------
-⚙️ My Favorite Tools & Technologies
+## 🔧 My favorite tools and technologies ⚙️
 
-Tools and technologies I’ve worked with and actively use across data, analytics, cloud, and enterprise environments.
+<p>Tools and technologies that I have worked with and am interested in</p>
 
-🧠 Programming & Scripting
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript,cs,cpp" /> </p>
-📊 Data, Analytics & BI
-<p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> <img src="https://img.shields.io/badge/Power_BI-808080?style=for-the-badge&logo=power-bi&logoColor=black"/> <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </p>
-🌐 Web & Application Frameworks
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,django" /> </p>
-🔗 APIs, DevOps & Containers
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx" /> <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/> </p>
-🧪 Testing, Monitoring & Messaging
-<p align="left"> <img src="https://skillicons.dev/icons?i=postman,linux,redis,rabbitmq" /> <img src="https://img.shields.io/badge/Celery-3BB273?style=for-the-badge&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/> <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/> </p>
-🏢 Enterprise, Cloud & Infrastructure
-<p align="left"> <img src="https://skillicons.dev/icons?i=azure,aws,linux" /> <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/> </p>
-📈 GitHub Stats
-<details> <summary>Click to expand</summary> <img src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&theme=default" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=danivelve&theme=github-light&hide_border=true" /> </details>
-📫 Connect With Me
-<p align="left"> <a href="https://github.com/danivelve"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> </p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /><br/><b>C#</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/><b>Python</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br/><b>JavaScript</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br/><b>C++</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br/><b>Django</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/><b>GitHub</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI-Dark.svg" width="48" height="48" alt="REST API" /><br/><b>REST API</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/><b>Docker</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br/><b>Nginx</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><b>Git</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /><br/><b>GitLab</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/><b>HTML</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br/><b>CSS</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br/><b>Bootstrap</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br/><b>Tailwind</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" width="48" height="48" alt="jQuery" /><br/><b>jQuery</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="48" height="48" alt=".NET" /><br/><b>ASP.NET</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br/><b>Redis</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br/><b>Postman</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/><b>Linux</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /><br/><b>Dart</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" /><br/><b>RabbitMQ</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" width="48" height="48" alt="Sentry" /><br/><b>Sentry</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Celery.svg" width="48" height="48" alt="Celery" /><br/><b>Celery</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docusaurus.svg" width="48" height="48" alt="Docusaurus" /><br/><b>Docusaurus</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Pytest.svg" width="48" height="48" alt="Pytest" /><br/><b>Pytest</b>
+    </td>
+  </tr>
+</table>
+
 
 
