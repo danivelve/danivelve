@@ -102,3 +102,28 @@ Highlights primary languages used across analytics, automation, and data project
 
 ## 📫 Connect With Me
 <p align="left"> <a href="https://github.com/danivelve"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:danivelve@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+
+--------------------------------------
+--------------------------------------
+⚙️ My Favorite Tools & Technologies
+
+Tools and technologies I’ve worked with and actively use across data, analytics, cloud, and enterprise environments.
+
+🧠 Programming & Scripting
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript,cs,cpp" /> </p>
+📊 Data, Analytics & BI
+<p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> <img src="https://img.shields.io/badge/Power_BI-808080?style=for-the-badge&logo=power-bi&logoColor=black"/> <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </p>
+🌐 Web & Application Frameworks
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,django" /> </p>
+🔗 APIs, DevOps & Containers
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx" /> <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/> </p>
+🧪 Testing, Monitoring & Messaging
+<p align="left"> <img src="https://skillicons.dev/icons?i=postman,linux,redis,rabbitmq" /> <img src="https://img.shields.io/badge/Celery-3BB273?style=for-the-badge&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/> <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/> </p>
+🏢 Enterprise, Cloud & Infrastructure
+<p align="left"> <img src="https://skillicons.dev/icons?i=azure,aws,linux" /> <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/> </p>
+📈 GitHub Stats
+<details> <summary>Click to expand</summary> <img src="https://github-readme-stats.vercel.app/api?username=danivelve&show_icons=true&theme=default" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=danivelve&theme=github-light&hide_border=true" /> </details>
+📫 Connect With Me
+<p align="left"> <a href="https://github.com/danivelve"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> </p>
+
+
