@@ -44,15 +44,14 @@ I am a data-focused professional building strong capabilities in data analysis a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danivelve&theme=default&hide_border=false" alt="GitHub Streak" />
   
   ## 🧠 Top Languages (Professional Views)
-  
-  <img
+   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danivelve&theme=default"
     alt="Top Languages by Repository"
     height="165"
   />
   
   ## 🌟 Featured Projects:
-  [Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
+[Secure-data-lab-1](https://github.com/danivelve/secure-data-lab-1): Securing Sensitive Data with Git and GitHub.
   
   ## 🚀 Technical Competence:
  ## 🔧 My favorite tools and technologies ⚙️
