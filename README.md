@@ -63,7 +63,6 @@ I enjoy exploring new cities and cultures, a curiosity that also drives my passi
   
   ## 🚀 Technical Competence:
   ## 🔧 My favorite tools and technologies ⚙️
-
 <p>
 Tools and technologies that I have worked with and am interested in.
 </p>
