@@ -1,4 +1,4 @@
-## ✨ About Me:✨
+  ## ✨ About Me:✨
 ### 💻 What I Do
 I am a data-focused professional building strong capabilities in data analysis and data science. I work with Python, Pandas, NumPy, Matplotlib, SQL, and Power BI to analyze data, uncover insights, and create clear, actionable dashboards. I also leverage Azure and AWS for cloud-based analytics and data workflows.
 
@@ -104,7 +104,7 @@ Tools and technologies that I have worked with and am interested in.
   </tr>
 </table>
 
-## 📊 Data & Analytics
+  ## 📊 Data & Analytics
 <p align="left">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=danivelve&theme=github-light&hide_border=true"
@@ -118,10 +118,10 @@ Tools and technologies that I have worked with and am interested in.
 **Insight:**  
 Highlights primary languages used across analytics, automation, and data projects.
 
-## 🏢 Enterprise & Infrastructure
+  ## 🏢 Enterprise & Infrastructure
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danivelve&theme=default" alt="Profile Details" height="165" /> </p> <p align="left"> Experience across <b>Active Directory</b>, <b>Microsoft 365</b>, <b>Exchange</b>, <b>VMware</b>, <b>Unix/Linux</b>, and <b>PowerShell</b> automation. </p>
 
-## 📫 Connect With Me
+  ## 📫 Connect With Me
 <p align="left"> <a href="https://github.com/danivelve"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:danivelve@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
 
