@@ -58,56 +58,6 @@ I am a data-focused professional building strong capabilities in data analysis a
 <table>
   <!-- Row 1 -->
   <tr>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=git" width="22"/><br/>Git</td>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=github" width="22"/><br/>GitHub</td>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=gitlab" width="22"/><br/>GitLab</td>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=python" width="22"/><br/>Python</td>
-    <td align="center" width="58"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="22"/><br/>NumPy</td>
-    <td align="center" width="58"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="22"/><br/>Pandas</td>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=javascript" width="22"/><br/>JavaScript</td>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=django" width="22"/><br/>Django</td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=html" width="22"/><br/>HTML</td>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=css" width="22"/><br/>CSS</td>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=docker" width="22"/><br/>Docker</td>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=linux" width="22"/><br/>Linux</td>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=azure" width="22"/><br/>Azure</td>
-    <td align="center" width="58"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="22"/><br/>Databricks</td>
-    <td align="center" width="58"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="22"/><br/>Snowflake</td>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=mysql" width="22"/><br/>MySQL</td>
-  </tr>
-
-  <!-- Row 3 -->
-  <tr>
-    <td align="center" width="58"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg" width="22"/><br/>Spark</td>
-    <td align="center" width="58"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="22"/><br/>Power BI</td>
-    <td align="center" width="58"><img src="https://learn.microsoft.com/en-us/media/logos/logo-excel.svg" width="22"/><br/>Excel</td>
-    <td align="center" width="58"><img src="https://img.icons8.com/color/96/formula-fx.png" width="22"/><br/>DAX</td>
-    <td align="center" width="58"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="22"/><br/>CI/CD</td>
-    <td align="center" width="64"><img src="https://skillicons.dev/icons?i=azure" width="26"/><br/>ARM Templates</td>
-    <td align="center" width="58"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="22"/><br/>Data Modeling</td>
-    <td align="center" width="58"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="22"/><br/>Metadata</td>
-  </tr>
-
-  <!-- Row 4 -->
-  <tr>
-    <td align="center" width="64"><img src="https://img.icons8.com/color/96/security-checked.png" width="26"/><br/>Data Governance</td>
-    <td align="center" width="58"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/readthedocs.svg" width="22"/><br/>Documentation</td>
-    <td align="center" width="64"><img src="https://skillicons.dev/icons?i=discord" width="26"/><br/>Communication</td>
-    <td align="center" width="58"><img src="https://skillicons.dev/icons?i=postman" width="22"/><br/>Postman</td>
-    <td align="center" width="64"><img src="https://skillicons.dev/icons?i=scikitlearn" width="26"/><br/>Scikit-learn</td>
-    <td align="center" width="58"><img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="22"/><br/>Data Storytelling</td>
-    <td align="center" width="58"></td>
-    <td align="center" width="58"></td>
-  </tr>
-</table>
----
-<table>
-  <!-- Row 1 -->
-  <tr>
     <td align="center" width="67"><img src="https://skillicons.dev/icons?i=git" width="25"/><br/>Git</td>
     <td align="center" width="67"><img src="https://skillicons.dev/icons?i=github" width="25"/><br/>GitHub</td>
     <td align="center" width="67"><img src="https://skillicons.dev/icons?i=gitlab" width="25"/><br/>GitLab</td>
