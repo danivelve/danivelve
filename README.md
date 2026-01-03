@@ -1,31 +1,24 @@
-  ## ✨ About Me:✨
-  💻 I’m currently working on:
-   Advancing my expertise in Azure and AWS for cloud infrastructure management.
-  Exploring Python and JavaScript for application development and automation.
-  
-  - 🤝 I’m looking to collaborate on:
-  Cloud solutions, automation tools, and troubleshooting projects.
-  Security-focused software development.
-  
-  - ❓ I’m looking for help with:
-  Enhancing my knowledge of software architecture and design.
-  Diving deeper into cybersecurity practices and AI-driven projects.
-  
-  -📖 I’m currently learning:
-  Cloud computing with Azure and AWS.
-  Database administration and scripting with SQL, PostgreSQL, and MongoDB.
-  
-💻 What I do
-I build skills in data analysis and data science using Azure & AWS, working with Python, Pandas, NumPy, Matplotlib, and Power BI to analyze data and create actionable dashboards.
+## ✨ About Me:✨
+## 💻 What I Do
+I am a data-focused professional building strong capabilities in data analysis and data science. I work with Python, Pandas, NumPy, Matplotlib, SQL, and Power BI to analyze data, uncover insights, and create clear, actionable dashboards. I also leverage Azure and AWS for cloud-based analytics and data workflows.
 
-🤝 Collaboration interests
-Data analysis, BI dashboards (Power BI), automation pipelines, and data-quality–focused projects.
+## 🚀 Currently Working On
+- Expanding expertise in cloud analytics and infrastructure using Azure and AWS
+- Developing data-driven applications and automation with Python and JavaScript
 
-📖 Currently learning
-Cloud-based analytics (Azure, AWS), data visualization and analysis, and databases using SQL, PostgreSQL, and MongoDB.
+## 📖 Currently Learning
+- Advanced cloud-based analytics (Azure & AWS)
+- Databases and data modeling using SQL, PostgreSQL, and MongoDB
+- Deeper concepts in data visualization, AI, and scalable analytics pipelines
 
-🌟 Fun fact
-I enjoy exploring new cities and cultures, a curiosity that also drives my passion for uncovering insights in data.
+## 🤝 Collaboration Interests
+- Data analysis and BI dashboards (Power BI)
+- Automation and data pipelines
+- Data quality, governance, and analytics-focused projects
+
+## ❓ Looking to Grow In
+- Software and data architecture best practices
+- Cybersecurity fundamentals and AI-driven analytics solutions
   
   ## 🚀 GitHub Stats
   <table>
