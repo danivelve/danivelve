@@ -105,6 +105,56 @@ I am a data-focused professional building strong capabilities in data analysis a
   </tr>
 </table>
 ---
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=git" width="25"/><br/>Git</td>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=github" width="25"/><br/>GitHub</td>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=gitlab" width="25"/><br/>GitLab</td>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=python" width="25"/><br/>Python</td>
+    <td align="center" width="67"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="25"/><br/>NumPy</td>
+    <td align="center" width="67"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25"/><br/>Pandas</td>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=javascript" width="25"/><br/>JavaScript</td>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=django" width="25"/><br/>Django</td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=html" width="25"/><br/>HTML</td>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=css" width="25"/><br/>CSS</td>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=docker" width="25"/><br/>Docker</td>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=linux" width="25"/><br/>Linux</td>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=azure" width="25"/><br/>Azure</td>
+    <td align="center" width="67"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="25"/><br/>Databricks</td>
+    <td align="center" width="67"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="25"/><br/>Snowflake</td>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=mysql" width="25"/><br/>MySQL</td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" width="67"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg" width="25"/><br/>Spark</td>
+    <td align="center" width="67"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="25"/><br/>Power BI</td>
+    <td align="center" width="67"><img src="https://learn.microsoft.com/en-us/media/logos/logo-excel.svg" width="25"/><br/>Excel</td>
+    <td align="center" width="67"><img src="https://img.icons8.com/color/96/formula-fx.png" width="25"/><br/>DAX</td>
+    <td align="center" width="67"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="25"/><br/>CI/CD</td>
+    <td align="center" width="74"><img src="https://skillicons.dev/icons?i=azure" width="29"/><br/>ARM Templates</td>
+    <td align="center" width="67"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="25"/><br/>Data Modeling</td>
+    <td align="center" width="67"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="25"/><br/>Metadata</td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td align="center" width="74"><img src="https://img.icons8.com/color/96/security-checked.png" width="29"/><br/>Data Governance</td>
+    <td align="center" width="67"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/readthedocs.svg" width="25"/><br/>Documentation</td>
+    <td align="center" width="74"><img src="https://skillicons.dev/icons?i=discord" width="29"/><br/>Communication</td>
+    <td align="center" width="67"><img src="https://skillicons.dev/icons?i=postman" width="25"/><br/>Postman</td>
+    <td align="center" width="74"><img src="https://skillicons.dev/icons?i=scikitlearn" width="29"/><br/>Scikit-learn</td>
+    <td align="center" width="67"><img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="25"/><br/>Data Storytelling</td>
+    <td align="center" width="67"></td>
+    <td align="center" width="67"></td>
+  </tr>
+</table>
+
   ## 📊 Data & Analytics
 <p align="left">
   <img
