@@ -1,22 +1,22 @@
 ## ✨ About Me:✨
-## 💻 What I Do
+### 💻 What I Do
 I am a data-focused professional building strong capabilities in data analysis and data science. I work with Python, Pandas, NumPy, Matplotlib, SQL, and Power BI to analyze data, uncover insights, and create clear, actionable dashboards. I also leverage Azure and AWS for cloud-based analytics and data workflows.
 
-## 🚀 Currently Working On
+### 🚀 Currently Working On
 - Expanding expertise in cloud analytics and infrastructure using Azure and AWS
 - Developing data-driven applications and automation with Python and JavaScript
 
-## 📖 Currently Learning
+### 📖 Currently Learning
 - Advanced cloud-based analytics (Azure & AWS)
 - Databases and data modeling using SQL, PostgreSQL, and MongoDB
 - Deeper concepts in data visualization, AI, and scalable analytics pipelines
 
-## 🤝 Collaboration Interests
+### 🤝 Collaboration Interests
 - Data analysis and BI dashboards (Power BI)
 - Automation and data pipelines
 - Data quality, governance, and analytics-focused projects
 
-## ❓ Looking to Grow In
+### ❓ Looking to Grow In
 - Software and data architecture best practices
 - Cybersecurity fundamentals and AI-driven analytics solutions
   
